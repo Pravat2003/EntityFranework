@@ -1,0 +1,15 @@
+E:\Service Structure\BitaFacts\BitaFacts.Infrastructure\obj\Debug\net5.0\BitaFacts.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+E:\Service Structure\BitaFacts\BitaFacts.Infrastructure\obj\Debug\net5.0\BitaFacts.Infrastructure.AssemblyInfoInputs.cache
+E:\Service Structure\BitaFacts\BitaFacts.Infrastructure\obj\Debug\net5.0\BitaFacts.Infrastructure.AssemblyInfo.cs
+E:\Service Structure\BitaFacts\BitaFacts.Infrastructure\obj\Debug\net5.0\BitaFacts.Infrastructure.csproj.CoreCompileInputs.cache
+E:\Service Structure\BitaFacts\BitaFacts.Infrastructure\obj\Debug\net5.0\BitaFacts.Infrastructure.csproj.AssemblyReference.cache
+E:\Service Structure\BitaFacts\BitaFacts.Infrastructure\bin\Debug\net5.0\BitaFacts.Infrastructure.deps.json
+E:\Service Structure\BitaFacts\BitaFacts.Infrastructure\bin\Debug\net5.0\BitaFacts.Infrastructure.dll
+E:\Service Structure\BitaFacts\BitaFacts.Infrastructure\bin\Debug\net5.0\ref\BitaFacts.Infrastructure.dll
+E:\Service Structure\BitaFacts\BitaFacts.Infrastructure\bin\Debug\net5.0\BitaFacts.Infrastructure.pdb
+E:\Service Structure\BitaFacts\BitaFacts.Infrastructure\bin\Debug\net5.0\BitaFacts.Core.dll
+E:\Service Structure\BitaFacts\BitaFacts.Infrastructure\bin\Debug\net5.0\BitaFacts.Core.pdb
+E:\Service Structure\BitaFacts\BitaFacts.Infrastructure\obj\Debug\net5.0\BitaFacts.Infrastructure.csproj.CopyComplete
+E:\Service Structure\BitaFacts\BitaFacts.Infrastructure\obj\Debug\net5.0\BitaFacts.Infrastructure.dll
+E:\Service Structure\BitaFacts\BitaFacts.Infrastructure\obj\Debug\net5.0\ref\BitaFacts.Infrastructure.dll
+E:\Service Structure\BitaFacts\BitaFacts.Infrastructure\obj\Debug\net5.0\BitaFacts.Infrastructure.pdb

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "BitaFacts.Core/1.0.0": {
+        "runtime": {
+          "BitaFacts.Core.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "BitaFacts.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

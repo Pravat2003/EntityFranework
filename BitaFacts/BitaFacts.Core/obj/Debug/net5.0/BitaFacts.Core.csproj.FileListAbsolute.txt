@@ -1,0 +1,12 @@
+E:\Service Structure\BitaFacts\BitaFacts.Core\obj\Debug\net5.0\BitaFacts.Core.GeneratedMSBuildEditorConfig.editorconfig
+E:\Service Structure\BitaFacts\BitaFacts.Core\obj\Debug\net5.0\BitaFacts.Core.AssemblyInfoInputs.cache
+E:\Service Structure\BitaFacts\BitaFacts.Core\obj\Debug\net5.0\BitaFacts.Core.AssemblyInfo.cs
+E:\Service Structure\BitaFacts\BitaFacts.Core\obj\Debug\net5.0\BitaFacts.Core.csproj.CoreCompileInputs.cache
+E:\Service Structure\BitaFacts\BitaFacts.Core\obj\Debug\net5.0\BitaFacts.Core.csproj.AssemblyReference.cache
+E:\Service Structure\BitaFacts\BitaFacts.Core\bin\Debug\net5.0\BitaFacts.Core.deps.json
+E:\Service Structure\BitaFacts\BitaFacts.Core\bin\Debug\net5.0\BitaFacts.Core.dll
+E:\Service Structure\BitaFacts\BitaFacts.Core\bin\Debug\net5.0\ref\BitaFacts.Core.dll
+E:\Service Structure\BitaFacts\BitaFacts.Core\bin\Debug\net5.0\BitaFacts.Core.pdb
+E:\Service Structure\BitaFacts\BitaFacts.Core\obj\Debug\net5.0\BitaFacts.Core.dll
+E:\Service Structure\BitaFacts\BitaFacts.Core\obj\Debug\net5.0\ref\BitaFacts.Core.dll
+E:\Service Structure\BitaFacts\BitaFacts.Core\obj\Debug\net5.0\BitaFacts.Core.pdb
